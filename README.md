@@ -14,7 +14,6 @@ Feel free to contact me by email at felixmchin@gmail.com or send me a message on
 
 ## GitHub Stats
 
-:-------------------------:|:-------------------------:
 [![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-chin)](https://github.com/anuraghazra/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-chin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
