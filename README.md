@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Felix
+# 👋 Hi there, I'm Felix
 
 I'm a software engineer with a passion for problem solving and making a positive impact in people's lives
 
@@ -10,7 +10,7 @@ I use to be a tax accountant and am still an actively licensed CPA
 
 You can contact me by email at felixmchin@gmail.com or DM me via [LinkedIn](https://www.linkedin.com/in/felixchin/)
 
-# 🌏 You can view my portfolio and some of the projects I've worked on at [felixchin.com](https://www.felixchin.com)
+### 🌏 You can view my portfolio and some of the projects I've worked on at [felixchin.com](https://www.felixchin.com)
 
 ## GitHub Stats
 
