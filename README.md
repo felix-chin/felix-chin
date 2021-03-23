@@ -4,7 +4,7 @@ I'm a software engineer with a passion for problem solving and making a positive
 
 ## ⚡ Fun Fact
 
-I use to be a tax accountant and am still an actively licensed CPA
+I am a former tax accountant and am still an actively licensed CPA in California
 
 ## ✉️ Contact Me
 
@@ -14,7 +14,9 @@ Feel free to contact me by email at felixmchin@gmail.com or send me a message on
 
 ## GitHub Stats
 
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-chin)](https://github.com/anuraghazra/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-chin)](https://github.com/anuraghazra/github-readme-stats)
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-chin)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-chin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **felix-chin/felix-chin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
