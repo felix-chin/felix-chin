@@ -1,10 +1,6 @@
 # 👋 Hi there, I'm Felix
 
-I'm a software engineer with a passion for problem solving and making a positive impact in people's lives
-
-## ⚡ Fun Fact
-
-I am a former tax accountant and am still an actively licensed CPA in California
+I'm a software engineer with a passion for problem solving and making a positive impact
 
 ## ✉️ Contact Me
 
