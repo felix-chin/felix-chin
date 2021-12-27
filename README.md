@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Felix
 
-I'm a software engineer with a passion for problem solving and making a positive impact
+I'm a software engineer and CPA. Let's connect!
 
 ## ✉️ Contact Me
 
