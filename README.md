@@ -2,8 +2,6 @@
 
 I'm a software engineer at Microsoft. Let's connect!
 
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-chin&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=c5c9cf&text_color=faf2dd&icon_color=ffffff&bg_color=23476d)](https://www.felixchin.com) 
-
 <!--
 **felix-chin/felix-chin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
