@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Felix
 
-I'm a software engineer at Microsoft. Let's connect!
+I'm a software engineer at Microsoft and Team Xbox. Let's connect!
 
 <!--
 **felix-chin/felix-chin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
